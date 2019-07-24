@@ -1,0 +1,3705 @@
+{
+"@context": "https://www.data.govt.nz/catalog.jsonld",
+"@id": "https://www.mbie.govt.nz/data.json","@type": "dcat:Catalog",
+"conformsTo": "https://www.data.govt.nz/toolkit/schema",
+"dataset":
+[
+  {
+   "title": "Ministry of Business, Innovation and Employment Chief Executive Expenses",
+   "description": "Ministry of Business, Innovation and Employment Chief Executive Expenses for the period of: 1 July - 31 December 2012, 1 January - 30 June 2013, 1 July 2013 to 30 June 2014, 1 July 2014 to 30 June 2015, 1 July 2015 to 30 June 2016, 1 July 2016 to 30 June 2017, 1 July 2017 to 31 December 2017, 1 January - 30 June 2018",
+   "identifier": "https://www.mbie.govt.nz/about/who-we-are/our-senior-leadership-team/chief-executive-expenses-disclosure/",
+   "license": "https://creativecommons.org/licenses/by/3.0/nz/",
+   "keyword": [
+      "Chief Executive",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "issued": "4/02/2013",
+   "modified": "18/02/2019",
+   "publisher": {
+      "name": "Ministry of Business Innovation and Employment",
+      "mbox": "opendata@mbie.govt.nz"
+   },
+   "contactPoint": {
+      "hasEmail": "joanna.gell@mbie.govt.nz",
+      "hasPhone": "",
+      "fn": ""
+   },
+   "landingPage": "https://www.mbie.govt.nz/about/who-we-are/our-senior-leadership-team/chief-executive-expenses-disclosure/",
+   "accrualPeriodicity": "Annually",
+   "theme": "State sector performance",
+   "distribution": [
+      {
+         "downloadURL": "https://www.mbie.govt.nz/assets/Images/Science-and-technology/Science-and-innovation/Disclosure-of-CE-expenses/bb81a656e6/disclosure-of-ce-expenses-carolyn-tremain-1-january-2018-30-june-2018.xlsx",
+         "title": "1 January to 30 June 2018",
+         "format": "xlsx",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "https://www.mbie.govt.nz/assets/Images/Science-and-technology/Science-and-innovation/Disclosure-of-CE-expenses/7364e95f94/disclosure-of-ce-expenses-carolyn-tremain-1-july-2017-31-december-2017.xlsx",
+         "title": "1 July 2017 to 31 December 2017",
+         "format": "xlsx",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "https://www.mbie.govt.nz/assets/Images/Science-and-technology/Science-and-innovation/Disclosure-of-CE-expenses/92cf3bc599/disclosure-of-ce-expenses-david-smol-1-july-2016-30-june-2017.xlsx",
+         "title": "1 July 2016 to 30 June 2017",
+         "format": "xlsx",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "https://www.mbie.govt.nz/assets/Images/Science-and-technology/Science-and-innovation/Disclosure-of-CE-expenses/bf7dc1f7dc/disclosure-of-ce-expenses-david-smol-1-july-2015-30-june-2016.xlsx",
+         "title": "1 July 2015 to 30 June 2016",
+         "format": "xls",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "https://www.mbie.govt.nz/assets/Images/Science-and-technology/Science-and-innovation/Disclosure-of-CE-expenses/7c667f54c7/disclosure-of-ce-expenses-david-smol-1-July-2014-30-june-2015.xlsx",
+         "title": "1 July 2014 to 30 June 2015",
+         "format": "xls",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "https://www.mbie.govt.nz/assets/Images/Science-and-technology/Science-and-innovation/Disclosure-of-CE-expenses/56b4e75db3/disclosure-of-ce-expenses-david-smol-1-july-2013-30-june-2014.xlsx",
+         "title": "1 July 2013 to 30 June 2014",
+         "format": "xls",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "https://www.mbie.govt.nz/assets/Images/Science-and-technology/Science-and-innovation/Disclosure-of-CE-expenses/7ba3625bd6/disclosure-of-ce-expenses-david-smol-1-january-2013-30-june-2013.xls",
+         "title": "January to June 2013",
+         "format": "xls",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "https://www.mbie.govt.nz/assets/Images/Science-and-technology/Science-and-innovation/Disclosure-of-CE-expenses/fecf9e508e/disclosure-of-ce-expenses-david-smol-1-july-2012-31-dec-2012.xls",
+         "title": "July to December 2012",
+         "format": "xls",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      }
+   ]
+},
+ {
+   "title": "The Companies Office",
+   "description": "The Companies Office provides a free service that allows registered users to search the companies register by company names. The data source is updated on a real-time basis. This service is available as a RESTful service or a web service.",
+   "identifier": "https://api.business.govt.nz/api/apis/info?name=Companies&version=v1&provider=mbiecreator",
+   "license": "https://creativecommons.org/licenses/by/3.0/nz/",
+   "keyword": [
+      "company information",
+      "companies register",
+      "Government APIs",
+      "clicktech",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "issued": "",
+   "modified": "",
+   "publisher": {
+      "name": "Ministry of Business Innovation and Employment",
+      "mbox": "opendata@mbie.govt.nz"
+   },
+   "contactPoint": {
+      "hasEmail": "",
+      "hasPhone": "",
+      "fn": ""
+   },
+   "landingPage": "https://api.business.govt.nz/api/apis/info?name=Companies&version=v1&provider=mbiecreator",
+   "accrualPeriodicity": "",
+   "theme": "Commerce, trade and industry",
+   "distribution": [
+      {
+         "downloadURL": "https://api.business.govt.nz/api/apis/info?name=Companies&version=v1&provider=mbiecreator",
+         "title": "Companies",
+         "format": "API",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "https://api.business.govt.nz/api/apis/info?name=Companies-Disqualified-Director-Search&version=v2&provider=mbiecreator",
+         "title": "Companies-Disqualified Director Search",
+         "format": "API",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "https://api.business.govt.nz/api/apis/info?name=Companies-Entity-Role-Search&version=v2&provider=mbiecreator",
+         "title": "Companies-Entity Role Search",
+         "format": "API",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "https://api.business.govt.nz/api/apis/info?name=DiscloseCompliance&version=v1&provider=mbiecreator",
+         "title": "Disclose Compliance",
+         "format": "API",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "https://api.business.govt.nz/api/apis/info?name=Financial-Service-Providers&version=v1&provider=mbiecreator",
+         "title": "Financial Service Providers",
+         "format": "API",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "https://api.business.govt.nz/api/apis/info?name=NZBN&version=v3&provider=mbiecreator",
+         "title": "New Zealand Business Number (NZBN)",
+         "format": "API",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      }
+   ]
+},
+ {
+   "title": "Duties, Taxes and Direct Levies on Motor Fuels",
+   "description": "Duties, Taxes and Direct Levies on Motor Fuels in NZ cents/litre (excluding GST) from 1 July 2014.",
+   "identifier": "https://www.mbie.govt.nz/building-and-energy/energy-and-natural-resources/energy-generation-and-markets/liquid-fuel-market/duties-taxes-and-direct-levies-on-motor-fuels-in-new-zealand/",
+   "license": "https://creativecommons.org/licenses/by/3.0/nz/",
+   "keyword": [
+      "Energy",
+      "Tax",
+      "open government",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "issued": "12/02/2015",
+   "modified": "26/10/2017",
+   "publisher": {
+      "name": "Ministry of Business Innovation and Employment",
+      "mbox": "opendata@mbie.govt.nz"
+   },
+   "contactPoint": {
+      "hasEmail": "",
+      "hasPhone": "",
+      "fn": ""
+   },
+   "landingPage": "https://www.mbie.govt.nz/building-and-energy/energy-and-natural-resources/energy-generation-and-markets/liquid-fuel-market/duties-taxes-and-direct-levies-on-motor-fuels-in-new-zealand/",
+   "accrualPeriodicity": "Other-Unknown",
+   "theme": "Transport",
+   "distribution": [
+      {
+         "downloadURL": "https://www.mbie.govt.nz/assets/Data-Files/Energy/energy-quarterly-statistics/q1-march-2019/f0208a8a33/Prices.xlsx",
+         "title": "Duties, taxes and direct levies on motor fuels in New Zealand ",
+         "format": "pdf",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      }
+   ]
+},
+ {
+   "title": "Energy in New Zealand",
+   "description": "Provides information on and analysis of New Zealand’s energy sector including statistics on supply, transformation, and demand.",
+   "identifier": "https://www.mbie.govt.nz/building-and-energy/energy-and-natural-resources/energy-statistics-and-modelling/energy-publications-and-technical-papers/energy-in-new-zealand/",
+   "license": "https://creativecommons.org/licenses/by/3.0/nz/",
+   "keyword": [
+      "Energy",
+      "open government",
+      "demand",
+      "supply",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "issued": "21/10/2012",
+   "modified": "8/07/2019",
+   "publisher": {
+      "name": "Ministry of Business Innovation and Employment",
+      "mbox": "opendata@mbie.govt.nz"
+   },
+   "contactPoint": {
+      "hasEmail": "energyinfo@med.govt.nz",
+      "hasPhone": "",
+      "fn": ""
+   },
+   "landingPage": "https://www.mbie.govt.nz/building-and-energy/energy-and-natural-resources/energy-statistics-and-modelling/energy-publications-and-technical-papers/energy-in-new-zealand/",
+   "accrualPeriodicity": "Other-Unknown",
+   "theme": "Energy",
+   "distribution": [
+      {
+         "downloadURL": "https://www.mbie.govt.nz/assets/d7c93162b8/energy-in-nz-18.pdf",
+         "title": "Energy in New Zealand 2018",
+         "format": "pdf",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "https://www.mbie.govt.nz/assets/bc14c2778b/energy-in-nz-2017.pdf",
+         "title": "Energy in New Zealand 2017",
+         "format": "pdf",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      }
+   ]
+},
+ {
+   "title": "New Zealand's Energy Outlook",
+   "description": "Projections of future energy supply, demand, prices and greenhouse gas emissions. These projections are principally aimed at informing the energy debate",
+   "identifier": "https://www.mbie.govt.nz/building-and-energy/energy-and-natural-resources/energy-statistics-and-modelling/energy-modelling/new-zealands-energy-outlook/",
+   "license": "https://creativecommons.org/licenses/by/3.0/nz/",
+   "keyword": [
+      "Energy",
+      "Emissions",
+      "Industry",
+      "environment",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "issued": "12/02/2015",
+   "modified": "12/02/2015",
+   "publisher": {
+      "name": "Ministry of Business Innovation and Employment",
+      "mbox": "opendata@mbie.govt.nz"
+   },
+   "contactPoint": {
+      "hasEmail": "",
+      "hasPhone": "",
+      "fn": ""
+   },
+   "landingPage": "https://www.mbie.govt.nz/building-and-energy/energy-and-natural-resources/energy-statistics-and-modelling/energy-modelling/new-zealands-energy-outlook/",
+   "accrualPeriodicity": "Other-Unknown",
+   "theme": "Energy",
+   "distribution": [
+      {
+         "downloadURL": "https://www.mbie.govt.nz/assets/Data-Files/Energy/be5f83e4bd/electricity-generation-and-build-2011.xls",
+         "title": "Electricity generation and build",
+         "format": "xls",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "https://www.mbie.govt.nz/assets/Data-Files/Energy/5aab30dc39/energy-emissions-2011.xls",
+         "title": "Emissions",
+         "format": "xlsx",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "https://www.mbie.govt.nz/assets/Data-Files/Energy/633cb8ccb4/energy-prices-2011.xls",
+         "title": "Energy prices",
+         "format": "xls",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "https://www.mbie.govt.nz/assets/Data-Files/Energy/6ccbb296ad/energy-supply-and-demand-2011.xls",
+         "title": "Energy supply and demand ",
+         "format": "xls",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "https://www.mbie.govt.nz/assets/Data-Files/Energy/3e04c82605/scenario-and-sensitivity-summary.xlsx",
+         "title": "Scenario and sensitivity summary: demand, price indicator, emissions",
+         "format": "xlsx",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "https://www.mbie.govt.nz/assets/Data-Files/Energy/cd1baddefa/electricity-insight-mixed-renewables.xlsx",
+         "title": "Mixed Renewables scenario results",
+         "format": "xlsx",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "https://www.mbie.govt.nz/assets/Data-Files/Energy/1e64029002/electricity-insight-high-geothermal-access.xlsx",
+         "title": "High Geothermal Access scenario results ",
+         "format": "xlsx",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "https://www.mbie.govt.nz/assets/Data-Files/Energy/2d886b94db/electricity-insight-low-cost-fossil-fuels.xlsx",
+         "title": "Low Cost Fossil Fuels scenario results",
+         "format": "xlsx",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "https://www.mbie.govt.nz/assets/Data-Files/Energy/e5813268d9/electicity-insight-global-low-carbon.xlsx",
+         "title": "Global Low Carbon scenario results",
+         "format": "xlsx",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "https://www.mbie.govt.nz/assets/Data-Files/Energy/5b4713212b/electricity-insight-mixed-ren-sensitivity-high-growth.xlsx",
+         "title": "Sensitivity to the Mixed Renewables scenario â€“ High Growth",
+         "format": "xlsx",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "https://www.mbie.govt.nz/assets/Data-Files/Energy/79cfa60012/electricity-insight-mixed-ren-sensitivity-low-growth.xlsx",
+         "title": "Sensitivity to the Mixed Renewables scenario â€“ Low Growth",
+         "format": "xlsx",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "https://www.mbie.govt.nz/assets/Data-Files/Energy/633d1c644e/electricity-insight-mixed-ren-sensitivity-low-growth-tiwai-off.xlsx",
+         "title": "Sensitivity to the Mixed Renewables scenario â€“ Tiwai Off",
+         "format": "xlsx",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "https://www.mbie.govt.nz/assets/Data-Files/Energy/15d1e3952f/electricity-insight-assumptions-summary.xlsx",
+         "title": "Assumptions Summary",
+         "format": "xlsx",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      }
+   ]
+},
+ {
+   "title": "Energy Statistics",
+   "description": "As part of our ongoing commitment to provide timely and accessible energy information, this section presents energy statistics including supply and demand by fuel types, energy balance tables, pricing information, international comparisons and greenhouse gas emissions. Each page contains a topic summary and data tables in Excel format.",
+   "identifier": "https://www.mbie.govt.nz/building-and-energy/energy-and-natural-resources/energy-statistics-and-modelling/energy-statistics/",
+   "license": "https://creativecommons.org/licenses/by/3.0/nz/",
+   "keyword": [
+      "Energy",
+      "Electricity",
+      "Prices",
+      "open government",
+      "petroleum",
+      "petrol",
+      "gas",
+      "oil",
+      "crown minerals",
+      "wells",
+      "drilling",
+      "field reserves",
+      "condensate reserves",
+      "environment",
+      "coal",
+      "mining"
+   ],
+   "issued": "",
+   "modified": "21/12/2017",
+   "publisher": {
+      "name": "Ministry of Business Innovation and Employment",
+      "mbox": "opendata@mbie.govt.nz"
+   },
+   "contactPoint": {
+      "hasEmail": "",
+      "hasPhone": "",
+      "fn": ""
+   },
+   "landingPage": "https://www.mbie.govt.nz/building-and-energy/energy-and-natural-resources/energy-statistics-and-modelling/energy-statistics/",
+   "accrualPeriodicity": "",
+   "theme": "Energy",
+   "distribution": [
+      {
+         "downloadURL": "https://www.mbie.govt.nz/assets/Data-Files/Energy/energy-quarterly-statistics/q1-march-2019/19f861d360/Coal.xlsx",
+         "title": "Coal",
+         "format": "xlsx",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "https://www.mbie.govt.nz/assets/Data-Files/Energy/energy-quarterly-statistics/q1-march-2019/aa59cabd85/Oil.xlsx",
+         "title": "Oil",
+         "format": "xlsx",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "https://www.mbie.govt.nz/assets/Data-Files/Energy/energy-quarterly-statistics/q1-march-2019/8501ba50a7/Gas.xlsx",
+         "title": "Gas",
+         "format": "xlsx",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "https://www.mbie.govt.nz/assets/Data-Files/Energy/764bf53b2a/renewables-statistics-june-18.xlsx",
+         "title": "Renewables",
+         "format": "xlsx",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "https://www.mbie.govt.nz/assets/Data-Files/Energy/energy-quarterly-statistics/q1-march-2019/fb33c7964a/Electricity.xlsx",
+         "title": "Electricity",
+         "format": "xlsx",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "https://www.mbie.govt.nz/assets/Data-Files/Energy/energy-quarterly-statistics/q1-march-2019/f0208a8a33/Prices.xlsx",
+         "title": "Prices",
+         "format": "xlsx",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "https://www.mbie.govt.nz/assets/Data-Files/Energy/energy-quarterly-statistics/q1-march-2019/843b8733ca/QRSS_March_2019.xlsx",
+         "title": "Electricity cost and price monitoring - Household sales-based electricity cost data",
+         "format": "xlsx",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "https://www.mbie.govt.nz/assets/Data-Files/Energy/energy-quarterly-statistics/q1-march-2019/e6fc62b244/qsdep_report_15-may-2019.xlsx",
+         "title": "Electricity cost and price monitoring - The Quarterly Survey of Domestic Electricity Prices (QSDEP) - a price indicator",
+         "format": "xlsx",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "https://www.mbie.govt.nz/assets/Data-Files/Energy/energy-quarterly-statistics/q1-march-2019/f21f15a7f3/Quarterly_electricity_liquid_fuel_emissions_data.xlsx",
+         "title": "Greenhouse gas emissions - Quarterly electricity and liquid fuel emissions data tables",
+         "format": "xlsx",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "https://www.mbie.govt.nz/assets/Data-Files/Energy/690c35ba10/annual-emissions-data-table.xlsx",
+         "title": "Greenhouse gas emissions - Annual emissions data table ",
+         "format": "xlsx",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "https://www.mbie.govt.nz/assets/Data-Files/Energy/944cf97b64/energy-balances-tables-1990-2016.xlsx",
+         "title": "Energy balances",
+         "format": "xlsx",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      }
+   ]
+},
+ {
+   "title": "Operating coal mine production figures",
+   "description": "Production figures for coal mines",
+   "identifier": "https://www.nzpam.govt.nz/our-industry/nz-minerals/minerals-data/coal/operating-mines/",
+   "license": "https://creativecommons.org/licenses/by/3.0/nz/",
+   "keyword": [
+      "Energy",
+      "Electricity",
+      "Prices",
+      "open government",
+      "petroleum",
+      "petrol",
+      "gas",
+      "oil",
+      "crown minerals",
+      "wells",
+      "drilling",
+      "field reserves",
+      "condensate reserves",
+      "environment",
+      "coal",
+      "mining"
+   ],
+   "issued": "",
+   "modified": "",
+   "publisher": {
+      "name": "Ministry of Business Innovation and Employment",
+      "mbox": "opendata@mbie.govt.nz"
+   },
+   "contactPoint": {
+      "hasEmail": "",
+      "hasPhone": "",
+      "fn": ""
+   },
+   "landingPage": "https://www.nzpam.govt.nz/our-industry/nz-minerals/minerals-data/coal/operating-mines/",
+   "accrualPeriodicity": "",
+   "theme": "Energy",
+   "distribution": [
+      {
+         "downloadURL": "https://www.nzpam.govt.nz/our-industry/nz-minerals/minerals-data/coal/operating-mines/downloadpdf",
+         "title": "Operating coal mine production figures - 2016 production figures",
+         "format": "pdf",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "https://www.nzpam.govt.nz/our-industry/nz-minerals/minerals-data/coal/operating-mines/2015/downloadpdf",
+         "title": "Operating coal mine production figures - 2015 production figures",
+         "format": "pdf",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "https://www.nzpam.govt.nz/our-industry/nz-minerals/minerals-data/coal/operating-mines/2014/downloadpdf",
+         "title": "Operating coal mine production figures - 2014 production figures",
+         "format": "pdf",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "https://www.nzpam.govt.nz/our-industry/nz-minerals/minerals-data/coal/operating-mines/2013/downloadpdf",
+         "title": "Operating coal mine production figures - 2013 production figures",
+         "format": "pdf",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      }
+   ]
+},
+ {
+   "title": "New Zealand Tourism Forecasts",
+   "description": "Our tourism forecasts provide expectations on the future tourism demand in New Zealand, and inform and support planning and investment decisions in the tourism industry. The forecasts are based on econometric modelling, current trends and best available forecasts of international factors, and are developed with input from members of the tourism industry.",
+   "identifier": "https://www.mbie.govt.nz/immigration-and-tourism/tourism-research-and-data/international-tourism-forecasts/",
+   "license": "https://creativecommons.org/licenses/by/3.0/nz/",
+   "keyword": [
+      "forecast",
+      "open government",
+      "tourism",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "issued": "",
+   "modified": "",
+   "publisher": {
+      "name": "Ministry of Business Innovation and Employment",
+      "mbox": "opendata@mbie.govt.nz"
+   },
+   "contactPoint": {
+      "hasEmail": "",
+      "hasPhone": "",
+      "fn": ""
+   },
+   "landingPage": "https://www.mbie.govt.nz/immigration-and-tourism/tourism-research-and-data/international-tourism-forecasts/",
+   "accrualPeriodicity": "",
+   "theme": "Tourism",
+   "distribution": [
+      {
+         "downloadURL": "https://www.mbie.govt.nz/assets/Data-Files/Tourism-research-and-data/International-tourism-forecasts/7239babf2e/forecasts-2012-18-pivot-table.xlsx",
+         "title": "New Zealand Tourism Forecasts 2012-2018",
+         "format": "xlsx",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "https://www.mbie.govt.nz/assets/Data-Files/Tourism-research-and-data/International-tourism-forecasts/cab38f267c/tourism-forecasts-2013-2019.xlsx",
+         "title": "New Zealand Tourism Forecasts 2013-2019",
+         "format": "xlsx",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "https://www.mbie.govt.nz/assets/Data-Files/Tourism-research-and-data/International-tourism-forecasts/1d7cd52203/tourism-forecasts-2014-2020.xlsx",
+         "title": "New Zealand Tourism Forecasts 2014-2020",
+         "format": "xlsx",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "https://www.mbie.govt.nz/assets/Data-Files/Tourism-research-and-data/International-tourism-forecasts/c8be4c615f/tourism-forecasts-2015-2021.xlsx",
+         "title": "New Zealand Tourism Forecasts 2015-2021",
+         "format": "xlsx",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "https://www.mbie.govt.nz/assets/Data-Files/Tourism-research-and-data/International-tourism-forecasts/233d7ca4d5/tourism-forecasts-2016-2022.xlsx",
+         "title": "New Zealand Tourism Forecasts 2016-2022",
+         "format": "xlsx",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "https://www.mbie.govt.nz/assets/Data-Files/Tourism-research-and-data/International-tourism-forecasts/526dd1bd74/tourism-forecasts-2017-2023.xlsx",
+         "title": "New Zealand Tourism Forecasts 2017-2023",
+         "format": "xlsx",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "https://www.mbie.govt.nz/assets/Data-Files/Tourism-research-and-data/International-tourism-forecasts/fe16620085/tourism-forecasts-2018-2024.xlsx",
+         "title": "New Zealand Tourism Forecasts 2018-2024",
+         "format": "xlsx",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      }
+   ]
+},
+ {
+   "title": "Public Holidays",
+   "description": "New Zealand public holiday and anniversary dates - three year rolling",
+   "identifier": "https://www.employment.govt.nz/leave-and-holidays/public-holidays/public-holidays-and-anniversary-dates/",
+   "license": "https://creativecommons.org/licenses/by/3.0/nz/",
+   "keyword": [
+      "Public holidays and anniversary dates",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "issued": "18/08/2015",
+   "modified": "9/08/2016",
+   "publisher": {
+      "name": "Ministry of Business Innovation and Employment",
+      "mbox": "opendata@mbie.govt.nz"
+   },
+   "contactPoint": {
+      "hasEmail": "",
+      "hasPhone": "",
+      "fn": ""
+   },
+   "landingPage": "https://www.employment.govt.nz/leave-and-holidays/public-holidays/public-holidays-and-anniversary-dates/",
+   "accrualPeriodicity": "Annually",
+   "theme": "Employment",
+   "distribution": [
+      {
+         "downloadURL": "https://www.employment.govt.nz/assets/_generated_pdfs/public-holidays-and-anniversary-dates-46.pdf",
+         "title": "Public holidays and anniversary dates",
+         "format": "pdf",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "https://www.employment.govt.nz/leave-and-holidays/public-holidays/public-holidays-and-anniversary-dates/icalendar-feeds/",
+         "title": "icalendar feed",
+         "format": "iCalendar",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      }
+   ]
+},
+ {
+   "title": "Jobs Online",
+   "description": "Jobs Online is a regular data series that measures changes in online job advertisements from four internet job boards — Seek, Trade Me Jobs, Education Gazette and Kiwi Health Jobs",
+   "identifier": "https://www.mbie.govt.nz/business-and-employment/employment-and-skills/labour-market-reports-data-and-analysis/jobs-online/",
+   "license": "https://creativecommons.org/licenses/by/3.0/nz/",
+   "keyword": [
+      "Vacancies",
+      "online",
+      "jobs",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "issued": "1/08/2010",
+   "modified": "21/11/2018",
+   "publisher": {
+      "name": "Ministry of Business Innovation and Employment",
+      "mbox": "opendata@mbie.govt.nz"
+   },
+   "contactPoint": {
+      "hasEmail": "",
+      "hasPhone": "",
+      "fn": ""
+   },
+   "landingPage": "https://www.mbie.govt.nz/business-and-employment/employment-and-skills/labour-market-reports-data-and-analysis/jobs-online/",
+   "accrualPeriodicity": "Monthly",
+   "theme": "Employment",
+   "distribution": [
+      {
+         "downloadURL": "https://www.mbie.govt.nz/assets/Data-Files/Business-employment/Employment-skills/Labour-market-reports/Jobs-online-monthly/ffcc394536/jobs-online-monthly-fig-1-all-vacancies-index.xlsx",
+         "title": "Jobs Online - All Vacancies Index Monthly",
+         "format": "xlsx",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "https://www.mbie.govt.nz/assets/Data-Files/Business-employment/Employment-skills/Labour-market-reports/Jobs-online-monthly/e583d37cdf/jobs-online-monthly-fig-2-vacancies-by-industry.xlsx",
+         "title": "Jobs Online - Vacancies by Industry monthly",
+         "format": "xlsx",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "https://www.mbie.govt.nz/assets/Data-Files/Business-employment/Employment-skills/Labour-market-reports/Jobs-online-monthly/dc591904db/jobs-online-monthly-fig-3-vacancies-by-occupation.xlsx",
+         "title": "Jobs Online -  Vacancies by Occupation month",
+         "format": "xlsx",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "https://www.mbie.govt.nz/assets/Data-Files/Business-employment/Employment-skills/Labour-market-reports/Jobs-online-monthly/ef35c7a5a8/jobs-online-monthly-fig-4-vacancies-by-skill-level.xlsx",
+         "title": "Jobs Online - Vacancies by Skill Level monthly",
+         "format": "XLSX",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "https://www.mbie.govt.nz/assets/Data-Files/Business-employment/Employment-skills/Labour-market-reports/Jobs-online-monthly/6622fed8a8/jobs-online-monthly-seasonally-adjusted.xlsx",
+         "title": "Jobs Online Vacancies seasonally adjusted monthly",
+         "format": "xlsx",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      }
+   ]
+},
+ {
+   "title": "Labour Market Dashboard",
+   "description": "Self-service tool which displays labour market information from many different sources",
+   "identifier": "https://mbienz.shinyapps.io/labour-market-dashboard_prod/",
+   "license": "https://creativecommons.org/licenses/by/3.0/nz/",
+   "keyword": [
+      "Labour",
+      "Market",
+      "Work",
+      "Jobs",
+      "",
+      "Workforce",
+      "Worker",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "issued": "8/07/2019",
+   "modified": "9/07/2019",
+   "publisher": {
+      "name": "Ministry of Business Innovation and Employment",
+      "mbox": "opendata@mbie.govt.nz"
+   },
+   "contactPoint": {
+      "hasEmail": "",
+      "hasPhone": "",
+      "fn": ""
+   },
+   "landingPage": "https://mbienz.shinyapps.io/labour-market-dashboard_prod/",
+   "accrualPeriodicity": "Other-Unknown",
+   "theme": "Employment",
+   "distribution": [
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      }
+   ]
+},
+ {
+   "title": "Occupation Outlook",
+   "description": "Occupation Outlook is a mobile app for Apple and Android smartphones and tablets. It is a great tool for exploring study and career options, with extensive information on labour supply and demand in over 100 occupations in New Zealand",
+   "identifier": "https://occupationoutlook.mbie.govt.nz/",
+   "license": "https://creativecommons.org/licenses/by/3.0/nz/",
+   "keyword": [
+      "Occupation",
+      "Career",
+      "Labour",
+      "Mobile",
+      "App",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "issued": "8/07/2019",
+   "modified": "9/07/2019",
+   "publisher": {
+      "name": "Ministry of Business Innovation and Employment",
+      "mbox": "opendata@mbie.govt.nz"
+   },
+   "contactPoint": {
+      "hasEmail": "",
+      "hasPhone": "",
+      "fn": ""
+   },
+   "landingPage": "https://occupationoutlook.mbie.govt.nz/",
+   "accrualPeriodicity": "Other-Unknown",
+   "theme": "Employment",
+   "distribution": [
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      }
+   ]
+},
+ {
+   "title": "Regional Economic Activity Web Tool",
+   "description": "The tool allows you to compare regions' economic performance, distinguish their attributes and specialisations, and understand the different roles they play in the New Zealand economy.",
+   "identifier": "http://webrear.mbie.govt.nz/summary/new-zealand",
+   "license": "https://creativecommons.org/licenses/by/4.0/nz/",
+   "keyword": [
+      "regional",
+      "economic",
+      "activity",
+      "tool",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "issued": "8/07/2019",
+   "modified": "9/07/2019",
+   "publisher": {
+      "name": "Ministry of Business Innovation and Employment",
+      "mbox": "opendata@mbie.govt.nz"
+   },
+   "contactPoint": {
+      "hasEmail": "",
+      "hasPhone": "",
+      "fn": ""
+   },
+   "landingPage": "http://webrear.mbie.govt.nz/summary/new-zealand",
+   "accrualPeriodicity": "Other-Unknown",
+   "theme": "Regional economics",
+   "distribution": [
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      }
+   ]
+},
+ {
+   "title": "Who got funded - Science and Innovation funding",
+   "description": "Grants for scientific research and associated activities we have made.",
+   "identifier": "https://www.mbie.govt.nz/science-and-technology/science-and-innovation/funding-information-and-opportunities/process/",
+   "license": "https://creativecommons.org/licenses/by/4.0/nz/",
+   "keyword": [
+      "science",
+      "funding",
+      "innovation",
+      "technology",
+      "research",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "issued": "1/12/2011",
+   "modified": "17/01/2019",
+   "publisher": {
+      "name": "Ministry of Business Innovation and Employment",
+      "mbox": "opendata@mbie.govt.nz"
+   },
+   "contactPoint": {
+      "hasEmail": "info@mbie.govt.nz",
+      "hasPhone": "",
+      "fn": ""
+   },
+   "landingPage": "https://www.mbie.govt.nz/science-and-technology/science-and-innovation/funding-information-and-opportunities/process/",
+   "accrualPeriodicity": "Other-Unknown",
+   "theme": "Science and research",
+   "distribution": [
+      {
+         "downloadURL": "https://www.mbie.govt.nz/assets/Uploads/621848a609/Who-Got-Funded-December-2018.xlsx",
+         "title": "Who got funded",
+         "format": "xlsx",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      }
+   ]
+},
+ {
+   "title": "Immigration New Zealand statistics - PDF reports",
+   "description": "Immigration New Zealand statistics for ballot system, departures, limited purpose, refugees, residence, returning residents, students, temporary arrivals, timelines, visitors and work.",
+   "identifier": "https://www.immigration.govt.nz/about-us/research-and-statistics/statistics",
+   "license": "https://creativecommons.org/licenses/by/4.0/nz/",
+   "keyword": [
+      "Immigration",
+      "Migration",
+      "source countries",
+      "work",
+      "occupation",
+      "permanent migration",
+      "open government",
+      "refugee",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "issued": "13/07/2011",
+   "modified": "15/07/2019",
+   "publisher": {
+      "name": "Ministry of Business Innovation and Employment",
+      "mbox": "opendata@mbie.govt.nz"
+   },
+   "contactPoint": {
+      "hasEmail": "data_explorer_help@mbie.govt.nz",
+      "hasPhone": "",
+      "fn": ""
+   },
+   "landingPage": "https://www.immigration.govt.nz/about-us/research-and-statistics/statistics",
+   "accrualPeriodicity": "Other-Unknown",
+   "theme": "Migration",
+   "distribution": [
+      {
+         "downloadURL": "https://www.immigration.govt.nz/documents/statistics/statistics-arrivals-by-month",
+         "title": "Arrivals - A1b - Arrivals by month",
+         "format": "pdf",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "https://www.immigration.govt.nz/documents/statistics/statistics-applicants-decided-by-ballot",
+         "title": "Ballot system - B1 - Applicants decided by ballot",
+         "format": "pdf",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "https://www.immigration.govt.nz/documents/statistics/statistics-all-departments-by-month",
+         "title": "Departures - D1b - All departures by month",
+         "format": "pdf",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "https://www.immigration.govt.nz/documents/statistics/immigration-new-zealand-overstayers-factsheet.pdf",
+         "title": "Immigration law/compliance - Overstayers",
+         "format": "pdf",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "https://www.immigration.govt.nz/documents/statistics/statistics-limited-purpose-applications-by-financial-year",
+         "title": "Limited purpose - LP1 - Limited purpose applications decided by financial year",
+         "format": "pdf",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "https://www.immigration.govt.nz/documents/statistics/statistics-rse-arrivals.pdf",
+         "title": "Recognised Seasonal Employer workers - Recognised Seasonal Employer (RSE) scheme arrivals",
+         "format": "pdf",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "https://www.immigration.govt.nz/documents/statistics/statistics-refugee-quota-arrivals",
+         "title": "Refugees - Refugee Quota Arrivals",
+         "format": "pdf",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "https://www.immigration.govt.nz/documents/statistics/statistics-refugee-quota-settlement",
+         "title": "Refugees - Refugee Quota Settlement",
+         "format": "pdf",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "https://www.immigration.govt.nz/documents/statistics/statistics-refugee-family-support-category-pack",
+         "title": "Refugees - Refugee Family Support Category",
+         "format": "pdf",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "https://www.immigration.govt.nz/documents/statistics/statistics-refugee-and-protection-status-pack",
+         "title": "Refugees - Refugee and Protection Status",
+         "format": "pdf",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "https://www.immigration.govt.nz/documents/statistics/statistics-residents-decisions-financial-year",
+         "title": "Residence - R1 - Resident decisions by financial year",
+         "format": "pdf",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "Residence - R4 - Occupation and region for SMC/General Skills principal applicants",
+         "format": "zip",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "https://www.immigration.govt.nz/documents/statistics/statistics-residence-applications-accepted",
+         "title": "Residence - R7 - Resident applications accepted by financial year",
+         "format": "pdf",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "https://www.immigration.govt.nz/documents/statistics/statistics-residence-applications-on-hand",
+         "title": "Residence - R8 - Resident applications on hand by month",
+         "format": "pdf"
+      },
+      {
+         "downloadURL": "https://www.immigration.govt.nz/documents/statistics/statistics-returning-residence-applications-decided-by-year",
+         "title": "Returning residents - RRV1 - Returning resident's visas",
+         "format": "pdf"
+      },
+      {
+         "downloadURL": "https://www.immigration.govt.nz/documents/statistics/statistics-student-applications-decided",
+         "title": "Students - S1 - Student applications decided",
+         "format": "pdf"
+      },
+      {
+         "downloadURL": "https://www.immigration.govt.nz/documents/statistics/statistics-first-time-students",
+         "title": "Students - S7 - First-time students",
+         "format": "pdf"
+      },
+      {
+         "downloadURL": "https://www.immigration.govt.nz/documents/statistics/statistics-visitor-applications-decided",
+         "title": "Visitors - V1 - Visitor applications decided",
+         "format": "pdf"
+      },
+      {
+         "downloadURL": "https://www.immigration.govt.nz/documents/statistics/statistics-work-applications-decided",
+         "title": "Work - W1 - Work applications decided",
+         "format": "pdf"
+      },
+      {
+         "downloadURL": "https://www.immigration.govt.nz/documents/statistics/statistics-work-applications-approved-by-occupation",
+         "title": "Work - W3 - Work applications approved by occupation",
+         "format": "pdf"
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      }
+   ]
+},
+ {
+   "title": "Migration Data Explorer",
+   "description": "The Migration Data Explorer enables you to easily access migration data to address the overarching research themes and enduring questions that relate to migration in New Zealand.",
+   "identifier": "https://mbienz.shinyapps.io/migration_data_explorer/",
+   "license": "https://creativecommons.org/licenses/by/4.0/nz/",
+   "keyword": [
+      "Immigration",
+      "Migration",
+      "source countries",
+      "work",
+      "occupation",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "issued": "15/07/2019",
+   "modified": "15/07/2019",
+   "publisher": {
+      "name": "Ministry of Business Innovation and Employment",
+      "mbox": "opendata@mbie.govt.nz"
+   },
+   "contactPoint": {
+      "hasEmail": "data_explorer_help@mbie.govt.nz",
+      "hasPhone": "",
+      "fn": ""
+   },
+   "landingPage": "",
+   "accrualPeriodicity": "",
+   "theme": "Migration",
+   "distribution": [
+      {
+         "downloadURL": "https://mbienz.shinyapps.io/migration_data_explorer/",
+         "title": "Migration Data Explorer",
+         "format": "Shiny",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      }
+   ]
+},
+ {
+   "title": "IPONZ",
+   "description": "IPONZ help New Zealand and international businesses protect their intellectual property rights in New Zealand. They collect data about patent, trade mark, design, and plant variety rights application volumes. ",
+   "identifier": "https://api.business.govt.nz/api/explore-apis/by-category?tag=IPONZ-group&",
+   "license": "https://creativecommons.org/licenses/by/3.0/nz/",
+   "keyword": [
+      "trademark",
+      "design",
+      "Government APIs",
+      "business",
+      "registration",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "issued": "",
+   "modified": "",
+   "publisher": {
+      "name": "Ministry of Business Innovation and Employment",
+      "mbox": "opendata@mbie.govt.nz"
+   },
+   "contactPoint": {
+      "hasEmail": "",
+      "hasPhone": "",
+      "fn": ""
+   },
+   "landingPage": "https://api.business.govt.nz/api/explore-apis/by-category?tag=IPONZ-group&",
+   "accrualPeriodicity": "",
+   "theme": "Commerce, trade and industry",
+   "distribution": [
+      {
+         "downloadURL": "https://api.business.govt.nz/api/apis/info?name=Patent&version=v1&provider=admin",
+         "title": "Patent",
+         "format": "API",
+         "accessURL": "https://api.business.govt.nz/api/apis/info?name=Design-Information&amp;version=v1&amp;provider=mbiecreator"
+      },
+      {
+         "downloadURL": "https://api.business.govt.nz/api/apis/info?name=Design&version=v1&provider=mbiecreator",
+         "title": "Design",
+         "format": "API",
+         "accessURL": "https://api.business.govt.nz/api/apis/info?name=DiscussionCorrespondence&amp;version=v1&amp;provider=mbiecreator"
+      },
+      {
+         "downloadURL": "https://api.business.govt.nz/api/apis/info?name=Design-Information&version=v1&provider=mbiecreator",
+         "title": "Design-information",
+         "format": "API",
+         "accessURL": "https://api.business.govt.nz/api/apis/info?name=GetIPONZDocument&amp;version=v1&amp;provider=mbiecreator"
+      },
+      {
+         "downloadURL": "https://api.business.govt.nz/api/apis/info?name=DiscussionCorrespondence&version=v1&provider=mbiecreator",
+         "title": "Discussion Correspondence",
+         "format": "API",
+         "accessURL": "http://www.business.govt.nz/businessdata/Businessdata-services/intellectual-property-office-of-nz/party-lookup"
+      },
+      {
+         "downloadURL": "https://api.business.govt.nz/api/apis/info?name=GetIPONZDocument&version=v1&provider=mbiecreator",
+         "title": "Get IPONZ Document",
+         "format": "API",
+         "accessURL": "https://api.business.govt.nz/api/apis/info?name=Patent&amp;version=v1&amp;provider=admin"
+      },
+      {
+         "downloadURL": "https://api.business.govt.nz/api/apis/info?name=Patent-Information&version=v1&provider=mbiecreator",
+         "title": "Patent-information",
+         "format": "API",
+         "accessURL": "https://api.business.govt.nz/api/apis/info?name=Patent-Information&amp;version=v1&amp;provider=mbiecreator"
+      },
+      {
+         "downloadURL": "https://api.business.govt.nz/api/apis/info?name=TaskCorrespondence&version=v1&provider=mbiecreator",
+         "title": "Task Correspondence",
+         "format": "API",
+         "accessURL": "https://api.business.govt.nz/api/apis/info?name=Design&amp;version=v1&amp;provider=mbiecreator"
+      },
+      {
+         "downloadURL": "https://api.business.govt.nz/api/apis/info?name=TradeMark&version=v3&provider=mbiecreator",
+         "title": "Trade Mark",
+         "format": "API",
+         "accessURL": "https://api.business.govt.nz/api/apis/info?name=Design&amp;version=v1&amp;provider=mbiecreator"
+      },
+      {
+         "downloadURL": "https://api.business.govt.nz/api/apis/info?name=TradeMarkSearch&version=v1&provider=mbiecreator",
+         "title": "Trade Mark Search",
+         "format": "API",
+         "accessURL": "https://api.business.govt.nz/api/apis/info?name=TaskCorrespondence&amp;version=v1&amp;provider=mbiecreator"
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": "https://api.business.govt.nz/api/apis/info?name=TradeMarkSearch&amp;version=v1&amp;provider=mbiecreator"
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": "https://api.business.govt.nz/api/apis/info?name=TradeMark&amp;version=v3&amp;provider=mbiecreator"
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": "https://api.business.govt.nz/api/apis/info?name=TradeMark-Information&amp;version=v3&amp;provider=mbiecreator"
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": "https://api.business.govt.nz/api/apis/info?name=TradeMark&amp;version=v3&amp;provider=mbiecreator"
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      }
+   ]
+},
+ {
+   "title": "Insolvency Statistics",
+   "description": "The Insolvency and Trustee Service (ITS) is a business unit of the Ministry of Business, Innovation and Employment. ITS is also called the Official Assignee’s Office. The Official Assignee is appointed under the State Sector Act 1988 to administer the Insolvency Act 2006, the insolvency provisions of the Companies Act 1993 and the Criminal Proceeds (Recovery) Act 2009. The Official Assignee administers all bankruptcies, No Asset Procedures, Summary Instalment Orders and some liquidations.",
+   "identifier": "https://www.insolvency.govt.nz/support/about/statistics/",
+   "license": "https://creativecommons.org/licenses/by/3.0/nz/",
+   "keyword": [
+      "Insolvency",
+      "bankruptcy",
+      "open government",
+      "Legal",
+      "Geo",
+      "Crime",
+      "berthold",
+      "t l",
+      "bankruptcy or insolvency",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "issued": "",
+   "modified": "",
+   "publisher": {
+      "name": "Ministry of Business Innovation and Employment",
+      "mbox": "opendata@mbie.govt.nz"
+   },
+   "contactPoint": {
+      "hasEmail": "",
+      "hasPhone": "",
+      "fn": ""
+   },
+   "landingPage": "View bankruptcy, liquidation, No Asset Procedure and Summary Instalment Order statistics.",
+   "accrualPeriodicity": "",
+   "theme": "Commerce, trade and industry",
+   "distribution": [
+      {
+         "downloadURL": "https://www.insolvency.govt.nz/support/about/statistics/insolvency-procedure-statistics/monthly-bankruptcy-figures/",
+         "title": "Insolvency procedure statistics - Monthly bankruptcy figures",
+         "format": "html",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "https://www.insolvency.govt.nz/support/about/statistics/insolvency-procedure-statistics/cumulative-totals/",
+         "title": "Insolvency procedure statistics - Cumulative totals",
+         "format": "html",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "https://www.insolvency.govt.nz/support/about/statistics/insolvency-procedure-statistics/debtors-vs-creditors-applications/",
+         "title": "Insolvency procedure statistics - Debtors vs creditors applications",
+         "format": "html",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "https://www.insolvency.govt.nz/support/about/statistics/insolvency-procedure-statistics/no-asset-procedure-statistics/",
+         "title": "Insolvency procedure statistics - No Asset Procedure statistics",
+         "format": "html",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "https://www.insolvency.govt.nz/support/about/statistics/insolvency-procedure-statistics/summary-instalment-order-statistics/",
+         "title": "Insolvency procedure statistics - Summary Instalment Order statistics",
+         "format": "html",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "https://www.insolvency.govt.nz/support/about/statistics/corporate-insolvency-statistics/monthly-its-administered-liquidations/",
+         "title": "Corporate insolvency statistics - Monthly ITS administered liquidations",
+         "format": "html",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "https://www.insolvency.govt.nz/support/about/statistics/corporate-insolvency-statistics/cumulative-totals/",
+         "title": "Corporate insolvency statistics - Cumulative totals",
+         "format": "html",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "https://www.insolvency.govt.nz/support/about/statistics/proceeds-of-crime-statistics/",
+         "title": "Proceeds of Crime statistics",
+         "format": "html",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "https://www.insolvency.govt.nz/support/about/statistics/annual-figures-for-new-estates-since-1988/",
+         "title": "Annual figures for new estates since 1988",
+         "format": "html",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "https://www.insolvency.govt.nz/assets/pdf/Statistical-Data-Reports/ITS-Statistics-and-Debtor-Profile-Report-2016-17.pdf",
+         "title": "Statistical data reports - ITS Statistical Data Report 2016-2017",
+         "format": "pdf",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "https://www.insolvency.govt.nz/assets/pdf/Statistical-Data-Reports/Insolvency-statistics-full-report-2015-16.pdf",
+         "title": "Statistical data reports - ITS Statistical Data Report 2015-2016",
+         "format": "pdf",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "https://www.insolvency.govt.nz/assets/pdf/Statistical-Data-Reports/ITS-Statistical-Data-Report-2014-2015-1.2-MB-PDF.pdf",
+         "title": "Statistical data reports - ITS Statistical Data Report 2014-2015",
+         "format": "pdf",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "https://www.insolvency.govt.nz/assets/pdf/Statistical-Data-Reports/ITS-Statistical-Data-Report-13-14.pdf",
+         "title": "Statistical data reports - ITS Statistical Data Report 2013-2014",
+         "format": "pdf",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "https://www.insolvency.govt.nz/assets/pdf/Statistical-Data-Reports/ITS-Statistical-Data-Report-12-13.pdf",
+         "title": "Statistical data reports - ITS Statistical Data Report 2012-2013",
+         "format": "pdf"
+      },
+      {
+         "downloadURL": "https://www.insolvency.govt.nz/assets/pdf/Statistical-Data-Reports/ITS-Statistical-Data-Report-11-12.pdf",
+         "title": "Statistical data reports - ITS Statistical Data Report 2011-2012",
+         "format": "pdf"
+      },
+      {
+         "downloadURL": "https://www.insolvency.govt.nz/assets/pdf/Statistical-Data-Reports/Insolvency-Statistics-and-Debtor-Profile-Report-2010-11.pdf",
+         "title": "Statistical data reports - ITS Statistical Data Report 2010-2011",
+         "format": "pdf"
+      },
+      {
+         "downloadURL": "https://www.insolvency.govt.nz/assets/pdf/Statistical-Data-Reports/its-statistical-data-report-2009-2010.pdf",
+         "title": "Statistical data reports - ITS Statistical Data Report 2009-2010",
+         "format": "pdf"
+      },
+      {
+         "downloadURL": "https://www.insolvency.govt.nz/assets/pdf/Statistical-Data-Reports/its-statistical-data-report-2008-2009.pdf",
+         "title": "Statistical data reports - ITS Statistical Data Report 2008-2009",
+         "format": "pdf"
+      },
+      {
+         "downloadURL": "https://www.insolvency.govt.nz/assets/pdf/Statistical-Data-Reports/Annual-Report-2007-08-1.pdf",
+         "title": "Statistical data reports - ITS Statistical Data Report 2007-2008",
+         "format": "pdf"
+      },
+      {
+         "downloadURL": "https://www.insolvency.govt.nz/assets/pdf/Statistical-Data-Reports/its-statistical-data-report-2006-2007.pdf",
+         "title": "Statistical data reports - ITS Statistical Data Report 2006-2007",
+         "format": "pdf"
+      },
+      {
+         "downloadURL": "https://www.insolvency.govt.nz/assets/pdf/Statistical-Data-Reports/itsstatisticaldatareport05-06.pdf",
+         "title": "Statistical data reports - ITS Statistical Data Report 2005-2006",
+         "format": "pdf"
+      },
+      {
+         "downloadURL": "https://www.insolvency.govt.nz/assets/pdf/Statistical-Data-Reports/ITS-Statistical-Data-Report-17-18.pdf",
+         "title": "Statistical data reports - ITS Statistical Data Report 2017-2018",
+         "format": "pdf"
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      }
+   ]
+},
+ {
+   "title": "International Visitor Survey (IVS)",
+   "description": "Measures the expenditure, characteristics and behaviours of international visitors to New Zealand.",
+   "identifier": "https://www.mbie.govt.nz/immigration-and-tourism/tourism-research-and-data/tourism-data-releases/international-visitor-survey-ivs/",
+   "license": "https://creativecommons.org/licenses/by/3.0/nz/",
+   "keyword": [
+      "tourism",
+      "Survey",
+      "Visitor",
+      "International",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "issued": "14/08/2014",
+   "modified": "15/07/2019",
+   "publisher": {
+      "name": "Ministry of Business Innovation and Employment",
+      "mbox": "opendata@mbie.govt.nz"
+   },
+   "contactPoint": {
+      "hasEmail": "TR_SharedMailbox@med.govt.nz",
+      "hasPhone": "",
+      "fn": ""
+   },
+   "landingPage": "https://www.mbie.govt.nz/immigration-and-tourism/tourism-research-and-data/tourism-data-releases/international-visitor-survey-ivs/",
+   "accrualPeriodicity": "Quarterly",
+   "theme": "Tourism",
+   "distribution": [
+      {
+         "downloadURL": "https://www.mbie.govt.nz/assets/Data-Files/IVS/9fcf4dbfa7/international-visitor-survey-pivot-table-march-2019.xlsx",
+         "title": "IVS pivot table March 2019",
+         "format": "xlsx",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "https://www.mbie.govt.nz/assets/Data-Files/IVS/cc2ccfbfc2/international-visitor-survey-pivot-table-dec-2018.xlsx",
+         "title": "IVS pivot table December 2018",
+         "format": "xlsx",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "https://www.mbie.govt.nz/assets/Data-Files/IVS/931d49b9bd/International-Visitor-Survey-pivot-table-September-2018.xlsx",
+         "title": "IVS pivot table September 2018",
+         "format": "xlsx",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "https://www.mbie.govt.nz/assets/Data-Files/IVS/3db61b0cd2/International-Visitor-Survey-pivot-table-June-2018.xlsx",
+         "title": "IVS pivot table June 2018",
+         "format": "xlsx",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "https://www.mbie.govt.nz/assets/Data-Files/IVS/e04ae015ca/International-Visitor-Survey-pivot-table-March-2018.xlsx",
+         "title": "IVS pivot table March 2018",
+         "format": "xlsx",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "https://www.mbie.govt.nz/assets/Data-Files/IVS/af62e6929e/International-Visitor-Survey-pivot-table-December-2017.xlsx",
+         "title": "IVS pivot table December 2017",
+         "format": "xlsx",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "https://www.mbie.govt.nz/assets/Data-Files/IVS/02ab63f122/International-Visitor-Survey-pivot-table-September-2017.xlsx",
+         "title": "IVS pivot table September 2017",
+         "format": "xlsx",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "https://www.mbie.govt.nz/assets/Data-Files/IVS/351f5c13da/International-Visitor-Survey-pivot-table-June-2017.xlsx",
+         "title": "IVS pivot table June 2017",
+         "format": "xlsx",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      }
+   ]
+},
+ {
+   "title": "Monthly Regional Tourism Estimates (MRTEs)",
+   "description": "The Monthly Regional Tourism Estimates (MRTEs) provide an estimate of regional monthly expenditure on tourism from both international and domestic consumers by regional tourism organisation (RTO).",
+   "identifier": "https://www.mbie.govt.nz/immigration-and-tourism/tourism-research-and-data/tourism-data-releases/monthly-regional-tourism-estimates/",
+   "license": "https://creativecommons.org/licenses/by/3.0/nz/",
+   "keyword": [
+      "tourism",
+      "Regional",
+      "Estimates",
+      "International",
+      "Domestic",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "issued": "",
+   "modified": "15/07/2019",
+   "publisher": {
+      "name": "Ministry of Business Innovation and Employment",
+      "mbox": "opendata@mbie.govt.nz"
+   },
+   "contactPoint": {
+      "hasEmail": "TR_SharedMailbox@med.govt.nz",
+      "hasPhone": "",
+      "fn": ""
+   },
+   "landingPage": "https://www.mbie.govt.nz/immigration-and-tourism/tourism-research-and-data/tourism-data-releases/monthly-regional-tourism-estimates/latest-update/data-download/",
+   "accrualPeriodicity": "Monthly",
+   "theme": "Tourism",
+   "distribution": [
+      {
+         "downloadURL": "https://www.mbie.govt.nz/assets/Data-Files/Tourism-research-and-data/MRTE/6171340c95/summary.xlsx",
+         "title": "RTO and Region",
+         "format": "xlsx",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "https://www.mbie.govt.nz/assets/Data-Files/Tourism-research-and-data/MRTE/b8641237e9/pivot-table-dom-product-series.xlsx",
+         "title": "Domestic product by RTO",
+         "format": "xlsx",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "https://www.mbie.govt.nz/assets/Data-Files/Tourism-research-and-data/MRTE/48b14e7c03/pivot-table-int-country-series.xlsx",
+         "title": "International country by RTO",
+         "format": "xlsx",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "https://www.mbie.govt.nz/assets/Data-Files/Tourism-research-and-data/MRTE/40d70002b9/pivot-table-int-product-series.xlsx",
+         "title": "International product by RTO",
+         "format": "xlsx",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      }
+   ]
+},
+ {
+   "title": "Tourism and the economy",
+   "description": "The Tourism Satellite Account (TSA) report presents information on tourism's contribution to the New Zealand economy in terms of expenditure and employment.",
+   "identifier": "",
+   "license": "https://creativecommons.org/licenses/by/3.0/nz/",
+   "keyword": [
+      "tourism",
+      "economic",
+      "expenditure",
+      "employment",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "issued": "",
+   "modified": "15/07/2019",
+   "publisher": {
+      "name": "Ministry of Business Innovation and Employment",
+      "mbox": "opendata@mbie.govt.nz"
+   },
+   "contactPoint": {
+      "hasEmail": "TR_SharedMailbox@med.govt.nz",
+      "hasPhone": "",
+      "fn": ""
+   },
+   "landingPage": "https://www.mbie.govt.nz/immigration-and-tourism/tourism-research-and-data/tourism-data-releases/tourism-and-the-economy/",
+   "accrualPeriodicity": "Annually",
+   "theme": "Tourism",
+   "distribution": [
+      {
+         "downloadURL": "https://www.mbie.govt.nz/assets/Data-Files/Tourism-research-and-data/RTI/05d10c96bf/tourism-satellite-account-2018-tables-1-18.xlsx",
+         "title": "Toursim Satellite Account 2018 tables 1-18",
+         "format": "xlsx",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "https://www.mbie.govt.nz/assets/Data-Files/Tourism-research-and-data/RTI/672a8afdea/tourism-satellite-account-2018-tables-19-26.xlsx",
+         "title": "Toursim Satellite Account 2018 tables 19-26",
+         "format": "xlsx",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "https://www.mbie.govt.nz/assets/Data-Files/Tourism-research-and-data/RTI/1be245e5e3/tourism-satellite-account-2017-tables-1-18.xlsx",
+         "title": "Toursim Satellite Account 2017 tables 1-18",
+         "format": "xlsx",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "https://www.mbie.govt.nz/assets/Data-Files/Tourism-research-and-data/RTI/b193e2df74/tourism-satellite-account-2017-tables-19-26.xlsx",
+         "title": "Toursim Satellite Account 2017 tables 19-26",
+         "format": "xlsx",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "https://www.mbie.govt.nz/assets/Data-Files/Tourism-research-and-data/RTI/e9480f3529/tourism-satellite-account-2016-prov-year-tables-1-16.xlsx",
+         "title": "Toursim Satellite Account 2016 tables 1-18",
+         "format": "xlsx",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "https://www.mbie.govt.nz/assets/Data-Files/Tourism-research-and-data/RTI/b0ec42b804/tourism-satellite-account-2016-tables-19-26.xlsx",
+         "title": "Toursim Satellite Account 2016 tables 19-26",
+         "format": "xlsx",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      }
+   ]
+},
+ {
+   "title": "The New Zealand Tourism Dashboard",
+   "description": "The New Zealand Tourism Dashboard is a one-stop shop for all information about tourism. It brings together a range of tourism datasets produced by MBIE and Statistics New Zealand into one easy-to-use tool. Information is presented using dynamic graphs and data tables.",
+   "identifier": "https://mbienz.shinyapps.io/tourism_dashboard_prod/",
+   "license": "https://creativecommons.org/licenses/by/3.0/nz/",
+   "keyword": [
+      "tourism",
+      "Statistics",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+   ],
+   "issued": "",
+   "modified": "16/07/2019",
+   "publisher": {
+      "name": "Ministry of Business Innovation and Employment",
+      "mbox": "opendata@mbie.govt.nz"
+   },
+   "contactPoint": {
+      "hasEmail": "TR_SharedMailbox@med.govt.nz",
+      "hasPhone": "",
+      "fn": ""
+   },
+   "landingPage": "https://mbienz.shinyapps.io/tourism_dashboard_prod/",
+   "accrualPeriodicity": "",
+   "theme": "Tourism",
+   "distribution": [
+      {
+         "downloadURL": "https://mbienz.shinyapps.io/tourism_dashboard_prod/",
+         "title": "The New Zealand Tourism Dashboard",
+         "format": "Shiny",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": "",
+         "accessURL": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      },
+      {
+         "downloadURL": "",
+         "title": "",
+         "format": ""
+      }
+   ]
+}
+
+]
+}
