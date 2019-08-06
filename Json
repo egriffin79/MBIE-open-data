@@ -5,50 +5,6 @@
       "conformsTo": "https://www.data.govt.nz/toolkit/schema",
       "dataset":[
     {
-        "title": "New Zealand Public Sector Websites",
-        "description": "List of websites owned and administered by the New Zealand Public Sector. The Department of Internal Affairs acknowledges this list has been compiled to the best of their knowledge, but it is not a complete list of all Public Sector websites. This list will be updated as the Department becomes aware of required updates.",
-        "identifier": "https://webtoolkit.govt.nz/guidance/domain-names/new-zealand-public-sector-websites/",
-        "license": "https://creativecommons.org/licenses/by/4.0",
-        "keyword": [
-            "websites",
-            "open government",
-            "url"
-        ],
-        "issued": "2011-08-26",
-        "modified": "2015-04-1",
-        "publisher": {
-            "name": "Department of Internal Affairs"
-        },
-        "contactPoint": {
-            "fn": "Jane Doe",
-            "hasPhone": "4123456789",
-            "hasEmail": "contact@agency.govt.nz"
-        },
-        "landingPage": "https://webtoolkit.govt.nz/guidance/domain-names/new-zealand-public-sector-websites/",
-        "accrualPeriodicity": "R/P1Y",
-        "theme": "Fiscal, tax and economics",
-        "temporal": "2011-08-26/2015-04-01",
-        "spatial": "{\"type\":\"Polygon\",\"coordinates\":[[[165.6298828125,-47.5468715989],[179.3408203125,-47.5468715989],[179.3408203125,-33.9068955513],[165.6298828125,-33.9068955513],[165.6298828125,-47.5468715989]]]}",
-        "distribution": [
-            {
-                "downloadURL": "https://webtoolkit.govt.nz/files/PublicSectorWebsites01April2015.csv",
-                "title": "Snapshot at 15 March 2017",
-                "format": "CSV",
-                "size": "58Kb"
-            },
-            {
-                "downloadURL": "https://raw.githubusercontent.com/GOVTNZ/public-sector-websites/master/public-sector-websites.csv",
-                "title": "Latest dataset updates",
-                "format": "CSV"
-            },
-            {
-                "downloadURL": "https://www.govt.nz/api/v2/consultation/list",
-                "title": "A list of consultations",
-                "format": "API"
-            }
-        ]
-    },
-    {
         "title": "Ministry of Business, Innovation and Employment Chief Executive Expenses",
         "description": "Ministry of Business, Innovation and Employment Chief Executive Expenses for the period of: 1 July - 31 December 2012, 1 January - 30 June 2013, 1 July 2013 to 30 June 2014, 1 July 2014 to 30 June 2015, 1 July 2015 to 30 June 2016, 1 July 2016 to 30 June 2017, 1 July 2017 to 31 December 2017, 1 January - 30 June 2018",
         "identifier": "https://www.mbie.govt.nz/about/who-we-are/our-senior-leadership-team/chief-executive-expenses-disclosure/",
