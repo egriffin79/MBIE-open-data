@@ -1,9 +1,53 @@
-  {
+{
       "@context": "https://www.data.govt.nz/catalog.jsonld",
-      "@id": "Data/data.json",
+      "@id": "data/data.json",
       "@type": "dcat:Catalog",
       "conformsTo": "https://www.data.govt.nz/toolkit/schema",
       "dataset":[
+    {
+        "title": "New Zealand Public Sector Websites",
+        "description": "List of websites owned and administered by the New Zealand Public Sector. The Department of Internal Affairs acknowledges this list has been compiled to the best of their knowledge, but it is not a complete list of all Public Sector websites. This list will be updated as the Department becomes aware of required updates.",
+        "identifier": "https://webtoolkit.govt.nz/guidance/domain-names/new-zealand-public-sector-websites/",
+        "license": "https://creativecommons.org/licenses/by/4.0",
+        "keyword": [
+            "websites",
+            "open government",
+            "url"
+        ],
+        "issued": "2011-08-26",
+        "modified": "2015-04-1",
+        "publisher": {
+            "name": "Department of Internal Affairs"
+        },
+        "contactPoint": {
+            "fn": "Jane Doe",
+            "hasPhone": "4123456789",
+            "hasEmail": "contact@agency.govt.nz"
+        },
+        "landingPage": "https://webtoolkit.govt.nz/guidance/domain-names/new-zealand-public-sector-websites/",
+        "accrualPeriodicity": "R/P1Y",
+        "theme": "Fiscal, tax and economics",
+        "temporal": "2011-08-26/2015-04-01",
+        "spatial": "{\"type\":\"Polygon\",\"coordinates\":[[[165.6298828125,-47.5468715989],[179.3408203125,-47.5468715989],[179.3408203125,-33.9068955513],[165.6298828125,-33.9068955513],[165.6298828125,-47.5468715989]]]}",
+        "distribution": [
+            {
+                "downloadURL": "https://webtoolkit.govt.nz/files/PublicSectorWebsites01April2015.csv",
+                "title": "Snapshot at 15 March 2017",
+                "format": "CSV",
+                "size": "58Kb"
+            },
+            {
+                "downloadURL": "https://raw.githubusercontent.com/GOVTNZ/public-sector-websites/master/public-sector-websites.csv",
+                "title": "Latest dataset updates",
+                "format": "CSV"
+            },
+            {
+                "downloadURL": "https://www.govt.nz/api/v2/consultation/list",
+                "title": "A list of consultations",
+                "format": "API"
+            }
+        ]
+    },
     {
         "title": "Ministry of Business, Innovation and Employment Chief Executive Expenses",
         "description": "Ministry of Business, Innovation and Employment Chief Executive Expenses for the period of: 1 July - 31 December 2012, 1 January - 30 June 2013, 1 July 2013 to 30 June 2014, 1 July 2014 to 30 June 2015, 1 July 2015 to 30 June 2016, 1 July 2016 to 30 June 2017, 1 July 2017 to 31 December 2017, 1 January - 30 June 2018",
@@ -797,6 +841,7 @@
         "accrualPeriodicity": "irregular",
         "theme": "Commerce, trade and industry",
         "distribution": [
+           
             {
                 "accessURL": "https://api.business.govt.nz/api/apis/info?name=Patent&version=v1&provider=admin",
                 "title": "Patent",
@@ -1200,42 +1245,42 @@
             {
                 "downloadURL": "https://www.mbie.govt.nz/assets/Data-Files/Tenancy-and-housing/Rental-bond-data/Quarterly/9da3db7a4d/detailed-lodged-bonds.csv",
                 "title": "Detailed lodged bonds",
-                "format": "csv",
-                "size": "https://www.mbie.govt.nz/assets/Data-Files/Tenancy-and-housing/Rental-bond-data/Quarterly/2897fbf70d/detailed-active-bonds.csv"
+                "format": "csv"
             },
             {
-                "downloadURL": "Detailed active bonds",
-                "title": "csv",
-                "format": "https://www.mbie.govt.nz/assets/Data-Files/Tenancy-and-housing/Rental-bond-data/Quarterly/d4f625380e/detailed-closed-bonds.csv"
+                "downloadURL": "https://www.mbie.govt.nz/assets/Data-Files/Tenancy-and-housing/Rental-bond-data/Quarterly/2897fbf70d/detailed-active-bonds.csv",
+                "title": "Detailed active bonds",
+                "format": "csv"
             },
             {
-                "downloadURL": "Detailed closed bonds",
-                "title": "csv",
-                "format": "https://www.mbie.govt.nz/assets/Data-Files/Tenancy-and-housing/Rental-bond-data/Quarterly/427a0a5095/detailed-mean-rents.csv"
+                "downloadURL": "https://www.mbie.govt.nz/assets/Data-Files/Tenancy-and-housing/Rental-bond-data/Quarterly/d4f625380e/detailed-closed-bonds.csv",
+                "title": "Detailed closed bonds",
+                "format": "csv"
             },
             {
-                "downloadURL": "Detailed mean rents",
-                "title": "csv",
-                "format": "https://www.mbie.govt.nz/assets/Data-Files/Tenancy-and-housing/Rental-bond-data/Quarterly/fcb5839378/detailed-geo-mean-rents.csv"
+                "downloadURL": "https://www.mbie.govt.nz/assets/Data-Files/Tenancy-and-housing/Rental-bond-data/Quarterly/427a0a5095/detailed-mean-rents.csv",
+                "title": "Detailed mean rents",
+                "format": "csv"
             },
             {
-                "downloadURL": "Detailed geometric mean rents",
-                "title": "csv",
-                "format": "https://www.mbie.govt.nz/assets/Data-Files/Tenancy-and-housing/Rental-bond-data/Quarterly/c4b6db4c29/detailed-synthetic-upper-quartile-rents.csv"
+                "downloadURL": "https://www.mbie.govt.nz/assets/Data-Files/Tenancy-and-housing/Rental-bond-data/Quarterly/fcb5839378/detailed-geo-mean-rents.csv",
+                "title": "Detailed geometric mean rents",
+                "format": "csv"
             },
             {
-                "downloadURL": "Detailed synthetic upper quartile rents",
-                "title": "csv",
-                "format": "https://www.mbie.govt.nz/assets/Data-Files/Tenancy-and-housing/Rental-bond-data/Quarterly/751d835d52/detailed-synthetic-lower-quartile-rents.csv"
+                "downloadURL": "https://www.mbie.govt.nz/assets/Data-Files/Tenancy-and-housing/Rental-bond-data/Quarterly/c4b6db4c29/detailed-synthetic-upper-quartile-rents.csv",
+                "title": "Detailed synthetic upper quartile rents",
+                "format": "csv"
             },
             {
-                "downloadURL": "Detailed synthetic lower quartile rents",
-                "title": "csv",
-                "format": "https://www.mbie.govt.nz/assets/Data-Files/Tenancy-and-housing/Rental-bond-data/Quarterly/d65758f961/detailed-standard-devation-log-rents.csv"
+                "downloadURL": "https://www.mbie.govt.nz/assets/Data-Files/Tenancy-and-housing/Rental-bond-data/Quarterly/751d835d52/detailed-synthetic-lower-quartile-rents.csv",
+                "title": "Detailed synthetic lower quartile rents",
+                "format": "csv"
             },
             {
-                "downloadURL": "Detailed std deviation of log rents",
-                "title": "csv"
+                "downloadURL": "https://www.mbie.govt.nz/assets/Data-Files/Tenancy-and-housing/Rental-bond-data/Quarterly/d65758f961/detailed-standard-devation-log-rents.csv",
+                "title": "Detailed std deviation of log rents",
+                "format": "csv"
             }
         ]
     },
@@ -1271,42 +1316,42 @@
             {
                 "downloadURL": "https://www.mbie.govt.nz/assets/Data-Files/Tenancy-and-housing/Rental-bond-data/Region/f9408bcb69/region-active-bonds.csv",
                 "title": "Active bonds by region",
-                "format": "csv",
-                "size": "https://www.mbie.govt.nz/assets/Data-Files/Tenancy-and-housing/Rental-bond-data/Region/a4e2ca0847/region-closed-bonds.csv"
+                "format": "csv"
             },
             {
-                "downloadURL": "Closed bonds by region",
-                "title": "csv",
-                "format": "https://www.mbie.govt.nz/assets/Data-Files/Tenancy-and-housing/Rental-bond-data/Region/3d8831633a/region-geometric-mean-rents.csv"
+                "downloadURL": "https://www.mbie.govt.nz/assets/Data-Files/Tenancy-and-housing/Rental-bond-data/Region/a4e2ca0847/region-closed-bonds.csv",
+                "title": "Closed bonds by region",
+                "format": "csv"
             },
             {
-                "downloadURL": "Geometric mean rents by region",
-                "title": "csv",
-                "format": "https://www.mbie.govt.nz/assets/Data-Files/Tenancy-and-housing/Rental-bond-data/Region/b6cf2f952b/region-lodged-bonds.csv"
+                "downloadURL": "https://www.mbie.govt.nz/assets/Data-Files/Tenancy-and-housing/Rental-bond-data/Region/3d8831633a/region-geometric-mean-rents.csv",
+                "title": "Geometric mean rents by region",
+                "format": "csv"
             },
             {
-                "downloadURL": "Lodged bonds by region",
-                "title": "csv",
-                "format": "https://www.mbie.govt.nz/assets/Data-Files/Tenancy-and-housing/Rental-bond-data/Region/6aa65c89f6/region-mean-rents.csv"
+                "downloadURL": "https://www.mbie.govt.nz/assets/Data-Files/Tenancy-and-housing/Rental-bond-data/Region/b6cf2f952b/region-lodged-bonds.csv",
+                "title": "Lodged bonds by region",
+                "format": "csv"
             },
             {
-                "downloadURL": "Mean rents by region",
-                "title": "csv",
-                "format": "https://www.mbie.govt.nz/assets/Data-Files/Tenancy-and-housing/Rental-bond-data/Region/7910c5b576/region-std-deviation-log-rents-region.csv"
+                "downloadURL": "https://www.mbie.govt.nz/assets/Data-Files/Tenancy-and-housing/Rental-bond-data/Region/6aa65c89f6/region-mean-rents.csv",
+                "title": "Mean rents by region",
+                "format": "csv"
             },
             {
-                "downloadURL": "Std Deviation of log rents by region",
-                "title": "csv",
-                "format": "https://www.mbie.govt.nz/assets/Data-Files/Tenancy-and-housing/Rental-bond-data/Region/bbbc044c3a/region-synthetic-lower-quartile-rents.csv"
+                "downloadURL": "https://www.mbie.govt.nz/assets/Data-Files/Tenancy-and-housing/Rental-bond-data/Region/7910c5b576/region-std-deviation-log-rents-region.csv",
+                "title": "Std Deviation of log rents by region",
+                "format": "csv"
             },
             {
-                "downloadURL": "Synthetic lower quartile rents by region",
-                "title": "csv",
-                "format": "https://www.mbie.govt.nz/assets/Data-Files/Tenancy-and-housing/Rental-bond-data/Region/141fb10355/region-synthetic-upper-quartile-rents.csv"
+                "downloadURL": "https://www.mbie.govt.nz/assets/Data-Files/Tenancy-and-housing/Rental-bond-data/Region/bbbc044c3a/region-synthetic-lower-quartile-rents.csv",
+                "title": "Synthetic lower quartile rents by region",
+                "format": "csv"
             },
             {
-                "downloadURL": "Synthetic upper quartile rents by region",
-                "title": "csv"
+                "downloadURL": "https://www.mbie.govt.nz/assets/Data-Files/Tenancy-and-housing/Rental-bond-data/Region/141fb10355/region-synthetic-upper-quartile-rents.csv",
+                "title": "Synthetic upper quartile rents by region",
+                "format": "csv"
             }
         ]
     },
@@ -1340,42 +1385,42 @@
             {
                 "downloadURL": "https://www.mbie.govt.nz/assets/Data-Files/Tenancy-and-housing/Rental-bond-data/Territorial-Authority/d8a3970ac5/ta-lodged-bonds.csv",
                 "title": "Bonds lodged by territorial authority",
-                "format": "csv",
-                "size": "https://www.mbie.govt.nz/assets/Data-Files/Tenancy-and-housing/Rental-bond-data/Territorial-Authority/891cc9b407/ta-active-bonds.csv"
+                "format": "csv"
             },
             {
-                "downloadURL": "Active bonds by territorial authority",
-                "title": "csv",
-                "format": "https://www.mbie.govt.nz/assets/Data-Files/Tenancy-and-housing/Rental-bond-data/Territorial-Authority/2e94079f6b/ta-closed-bonds.csv"
+                "downloadURL": "https://www.mbie.govt.nz/assets/Data-Files/Tenancy-and-housing/Rental-bond-data/Territorial-Authority/891cc9b407/ta-active-bonds.csv",
+                "title": "Active bonds by territorial authority",
+                "format": "csv"
             },
             {
-                "downloadURL": "Closed bonds by territorial authority",
-                "title": "csv",
-                "format": "https://www.mbie.govt.nz/assets/Data-Files/Tenancy-and-housing/Rental-bond-data/Territorial-Authority/ee67d247db/ta-mean-rents.csv"
+                "downloadURL": "https://www.mbie.govt.nz/assets/Data-Files/Tenancy-and-housing/Rental-bond-data/Territorial-Authority/2e94079f6b/ta-closed-bonds.csv",
+                "title": "Closed bonds by territorial authority",
+                "format": "csv"
             },
             {
-                "downloadURL": "Mean rents by territorial authority",
-                "title": "csv",
-                "format": "https://www.mbie.govt.nz/assets/Data-Files/Tenancy-and-housing/Rental-bond-data/Territorial-Authority/5e6e9dd31b/ta-geometric-mean.csv"
+                "downloadURL": "https://www.mbie.govt.nz/assets/Data-Files/Tenancy-and-housing/Rental-bond-data/Territorial-Authority/ee67d247db/ta-mean-rents.csv",
+                "title": "Mean rents by territorial authority",
+                "format": "csv"
             },
             {
-                "downloadURL": "Geometric mean rents by territorial authority",
-                "title": "csv",
-                "format": "https://www.mbie.govt.nz/assets/Data-Files/Tenancy-and-housing/Rental-bond-data/Territorial-Authority/2a6e9e5ecc/ta-synthetic-upper-quartile-rents.csv"
+                "downloadURL": "https://www.mbie.govt.nz/assets/Data-Files/Tenancy-and-housing/Rental-bond-data/Territorial-Authority/5e6e9dd31b/ta-geometric-mean.csv",
+                "title": "Geometric mean rents by territorial authority",
+                "format": "csv"
             },
             {
-                "downloadURL": "Synthetic upper quartile rents by territorial authority",
-                "title": "csv",
-                "format": "https://www.mbie.govt.nz/assets/Data-Files/Tenancy-and-housing/Rental-bond-data/Territorial-Authority/3c21753646/ta-synthetic-lower-quartile-rents.csv"
+                "downloadURL": "https://www.mbie.govt.nz/assets/Data-Files/Tenancy-and-housing/Rental-bond-data/Territorial-Authority/2a6e9e5ecc/ta-synthetic-upper-quartile-rents.csv",
+                "title": "Synthetic upper quartile rents by territorial authority",
+                "format": "csv"
             },
             {
-                "downloadURL": "Synthetic lower quartile rents by territorial authority",
-                "title": "csv",
-                "format": "https://www.mbie.govt.nz/assets/Data-Files/Tenancy-and-housing/Rental-bond-data/Territorial-Authority/45f3a0ec86/ta-std-deviation-log-rents.csv"
+                "downloadURL": "https://www.mbie.govt.nz/assets/Data-Files/Tenancy-and-housing/Rental-bond-data/Territorial-Authority/3c21753646/ta-synthetic-lower-quartile-rents.csv",
+                "title": "Synthetic lower quartile rents by territorial authority",
+                "format": "csv"
             },
             {
-                "downloadURL": "Std Deviation of log rents by territorial authority",
-                "title": "csv"
+                "downloadURL": "https://www.mbie.govt.nz/assets/Data-Files/Tenancy-and-housing/Rental-bond-data/Territorial-Authority/45f3a0ec86/ta-std-deviation-log-rents.csv",
+                "title": "Std Deviation of log rents by territorial authority",
+                "format": "csv"
             }
         ]
     }
