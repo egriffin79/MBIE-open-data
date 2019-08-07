@@ -5,50 +5,6 @@
       "conformsTo": "https://www.data.govt.nz/toolkit/schema",
       "dataset":[
     {
-        "title": "New Zealand Public Sector Websites",
-        "description": "List of websites owned and administered by the New Zealand Public Sector. The Department of Internal Affairs acknowledges this list has been compiled to the best of their knowledge, but it is not a complete list of all Public Sector websites. This list will be updated as the Department becomes aware of required updates.",
-        "identifier": "https://webtoolkit.govt.nz/guidance/domain-names/new-zealand-public-sector-websites/",
-        "license": "https://creativecommons.org/licenses/by/4.0",
-        "keyword": [
-            "websites",
-            "open government",
-            "url"
-        ],
-        "issued": "2011-08-26",
-        "modified": "2015-04-1",
-        "publisher": {
-            "name": "Department of Internal Affairs"
-        },
-        "contactPoint": {
-            "fn": "Jane Doe",
-            "hasPhone": "4123456789",
-            "hasEmail": "contact@agency.govt.nz"
-        },
-        "landingPage": "https://webtoolkit.govt.nz/guidance/domain-names/new-zealand-public-sector-websites/",
-        "accrualPeriodicity": "R/P1Y",
-        "theme": "Fiscal, tax and economics",
-        "temporal": "2011-08-26/2015-04-01",
-        "spatial": "{\"type\":\"Polygon\",\"coordinates\":[[[165.6298828125,-47.5468715989],[179.3408203125,-47.5468715989],[179.3408203125,-33.9068955513],[165.6298828125,-33.9068955513],[165.6298828125,-47.5468715989]]]}",
-        "distribution": [
-            {
-                "downloadURL": "https://webtoolkit.govt.nz/files/PublicSectorWebsites01April2015.csv",
-                "title": "Snapshot at 15 March 2017",
-                "format": "CSV",
-                "size": "58Kb"
-            },
-            {
-                "downloadURL": "https://raw.githubusercontent.com/GOVTNZ/public-sector-websites/master/public-sector-websites.csv",
-                "title": "Latest dataset updates",
-                "format": "CSV"
-            },
-            {
-                "downloadURL": "https://www.govt.nz/api/v2/consultation/list",
-                "title": "A list of consultations",
-                "format": "API"
-            }
-        ]
-    },
-    {
         "title": "Ministry of Business, Innovation and Employment Chief Executive Expenses",
         "description": "Ministry of Business, Innovation and Employment Chief Executive Expenses for the period of: 1 July - 31 December 2012, 1 January - 30 June 2013, 1 July 2013 to 30 June 2014, 1 July 2014 to 30 June 2015, 1 July 2015 to 30 June 2016, 1 July 2016 to 30 June 2017, 1 July 2017 to 31 December 2017, 1 January - 30 June 2018",
         "identifier": "https://www.mbie.govt.nz/about/who-we-are/our-senior-leadership-team/chief-executive-expenses-disclosure/",
@@ -197,7 +153,7 @@
     },
     {
         "title": "Energy in New Zealand",
-        "description": "Provides information on and analysis of New Zealand�s energy sector including statistics on supply, transformation, and demand.",
+        "description": "Provides information on and analysis of New Zealand's energy sector including statistics on supply, transformation, and demand.",
         "identifier": "https://www.mbie.govt.nz/building-and-energy/energy-and-natural-resources/energy-statistics-and-modelling/energy-publications-and-technical-papers/energy-in-new-zealand/",
         "license": "https://creativecommons.org/licenses/by/3.0/nz/",
         "keyword": [
@@ -299,17 +255,17 @@
             },
             {
                 "downloadURL": "https://www.mbie.govt.nz/assets/Data-Files/Energy/5b4713212b/electricity-insight-mixed-ren-sensitivity-high-growth.xlsx",
-                "title": "Sensitivity to the Mixed Renewables scenario – High Growth",
+                "title": "Sensitivity to the Mixed Renewables scenario � High Growth",
                 "format": "xlsx"
             },
             {
                 "downloadURL": "https://www.mbie.govt.nz/assets/Data-Files/Energy/79cfa60012/electricity-insight-mixed-ren-sensitivity-low-growth.xlsx",
-                "title": "Sensitivity to the Mixed Renewables scenario – Low Growth",
+                "title": "Sensitivity to the Mixed Renewables scenario � Low Growth",
                 "format": "xlsx"
             },
             {
                 "downloadURL": "https://www.mbie.govt.nz/assets/Data-Files/Energy/633d1c644e/electricity-insight-mixed-ren-sensitivity-low-growth-tiwai-off.xlsx",
-                "title": "Sensitivity to the Mixed Renewables scenario – Tiwai Off",
+                "title": "Sensitivity to the Mixed Renewables scenario � Tiwai Off",
                 "format": "xlsx"
             },
             {
@@ -527,7 +483,7 @@
     },
     {
         "title": "Jobs Online",
-        "description": "Jobs Online is a regular data series that measures changes in online job advertisements from four internet job boards � Seek, Trade Me Jobs, Education Gazette and Kiwi Health Jobs",
+        "description": "Jobs Online is a regular data series that measures changes in online job advertisements from four internet job boards ' Seek, Trade Me Jobs, Education Gazette and Kiwi Health Jobs",
         "identifier": "https://www.mbie.govt.nz/business-and-employment/employment-and-skills/labour-market-reports-data-and-analysis/jobs-online/",
         "license": "https://creativecommons.org/licenses/by/3.0/nz/",
         "keyword": [
@@ -595,7 +551,7 @@
     },
     {
         "title": "Occupation Outlook",
-        "description": "Occupation Outlook is a mobile app for Apple and Android smartphones and tablets. It is a great�tool for exploring�study and career options, with extensive information on�labour supply and demand�in�over�100�occupations in New Zealand",
+        "description": "Occupation Outlook is a mobile app for Apple and Android smartphones and tablets. It is a great'tool for exploring'study and career options, with extensive information on'labour supply and demand'in'over'100'occupations in New Zealand",
         "identifier": "https://occupationoutlook.mbie.govt.nz/",
         "license": "https://creativecommons.org/licenses/by/3.0/nz/",
         "keyword": [
@@ -841,7 +797,7 @@
         "accrualPeriodicity": "irregular",
         "theme": "Commerce, trade and industry",
         "distribution": [
-           
+            
             {
                 "accessURL": "https://api.business.govt.nz/api/apis/info?name=Patent&version=v1&provider=admin",
                 "title": "Patent",
@@ -891,7 +847,7 @@
     },
     {
         "title": "Insolvency Statistics",
-        "description": "The Insolvency and Trustee Service (ITS) is a business unit of the Ministry of Business, Innovation and Employment. ITS is also called the Official Assignee�s Office. The Official Assignee is appointed under the State Sector Act 1988 to administer the Insolvency Act 2006, the insolvency provisions of the Companies Act 1993 and the Criminal Proceeds (Recovery) Act 2009. The Official Assignee administers all bankruptcies, No Asset Procedures, Summary Instalment Orders and some liquidations.",
+        "description": "The Insolvency and Trustee Service (ITS) is a business unit of the Ministry of Business, Innovation and Employment. ITS is also called the Official Assignee's Office. The Official Assignee is appointed under the State Sector Act 1988 to administer the Insolvency Act 2006, the insolvency provisions of the Companies Act 1993 and the Criminal Proceeds (Recovery) Act 2009. The Official Assignee administers all bankruptcies, No Asset Procedures, Summary Instalment Orders and some liquidations.",
         "identifier": "https://www.insolvency.govt.nz/support/about/statistics/",
         "license": "https://creativecommons.org/licenses/by/3.0/nz/",
         "keyword": [
