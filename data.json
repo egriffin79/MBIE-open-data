@@ -26,6 +26,11 @@
         "accrualPeriodicity": "R/P1Y",
         "theme": "State sector performance",
         "distribution": [
+		    {
+                "downloadURL": "https://www.mbie.govt.nz/assets/Data-Files/About/Disclosure-of-CE-expenses/disclosure-of-ce-expenses-carolyn-tremain-1-july-2018-30-june-2019.xlsx",
+                "title": "1 July 2018 to 30 June 2019",
+                "format": "xlsx"
+            },
             {
                 "downloadURL": "https://www.mbie.govt.nz/assets/Data-Files/About/Disclosure-of-CE-expenses/disclosure-of-ce-expenses-carolyn-tremain-1-january-2018-30-june-2018.xlsx",
                 "title": "1 January to 30 June 2018",
@@ -65,11 +70,6 @@
                 "downloadURL": "https://www.mbie.govt.nz/assets/Data-Files/About/Disclosure-of-CE-expenses/disclosure-of-ce-expenses-david-smol-1-july-2012-31-dec-2012.xls",
                 "title": "July to December 2012",
                 "format": "xls"
-            },
-            {
-                "downloadURL": "https://www.mbie.govt.nz/assets/Data-Files/About/Disclosure-of-CE-expenses/disclosure-of-ce-expenses-carolyn-tremain-1-july-2018-30-june-2019.xlsx",
-                "title": "1 July 2018 to 30 June 2019",
-                "format": "xlsx"
             }
         ]
     },
